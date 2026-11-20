@@ -1,0 +1,11 @@
+{
+  "name": "highway-match",
+  "private": true,
+  "scripts": {
+    "setup": "npm install --prefix web",
+    "dev": "npm run dev --prefix web",
+    "build": "npm run build --prefix web",
+    "verify": "npm run verify --prefix web",
+    "train": "cd python && python train.py"
+  }
+}
