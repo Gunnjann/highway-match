@@ -6,7 +6,7 @@
 
 **GNSS map-matching for fair highway tolling: nearest-road vs Hidden Markov Model vs HMM + machine learning**
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_the_app-0E1B2C?style=for-the-badge&logo=vercel&logoColor=white)](https://highway-match.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_the_app-0E1B2C?style=for-the-badge&logo=vercel&logoColor=white)](https://highway-match-project.vercel.app)
 [![SIH 2024](https://img.shields.io/badge/Smart_India_Hackathon-2024_problem-E8A33D?style=for-the-badge)](#-background)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
